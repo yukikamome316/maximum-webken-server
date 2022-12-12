@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "webken-4-db",
+            "database": "\\\\wsl.localhost\\Ubuntu\\home\\yuki\\web\\db_test\\db.sqlite3"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
